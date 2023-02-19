@@ -1,0 +1,28 @@
+
+body {
+ background-image: url('https://mydiscoveries.ru/wp-content/uploads/2015/10/Depositphotos_20867981_original-e1481986944450.jpg');
+}
+
+img {
+padding: 10px;
+margin: 4%;
+background-color: rgb(113, 122, 130);
+}
+
+h1 {
+    color: beige;
+}
+
+h2 {
+    color: beige;
+}
+
+button {
+    background-color: hwb(49 4% 6% / 0);
+    color: #12d40e;
+    border: 2px solid #4CAF50; /* Green */
+    width: 50px;
+}
+
+
+
