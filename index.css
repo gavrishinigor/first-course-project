@@ -3,6 +3,28 @@ body {
  background-image: url('https://images.wallpaperscraft.ru/image/single/zatmenie_luna_solntse_129559_3840x2160.jpg');
 }*/
 
+.result__content {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0px -15px;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+.item {
+   
+    color: #363636;
+    padding: 30px 30px;
+    border-radius: 25px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    height: 100%;}
+
 img {
 padding: 10px;
 margin: 4%;
